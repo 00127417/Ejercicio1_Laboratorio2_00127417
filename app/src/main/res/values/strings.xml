@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ejercicio01</string>
+    <string name="String_username">username</string>
+    <string name="string_password">password</string>
+</resources>
